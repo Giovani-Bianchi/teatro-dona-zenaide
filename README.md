@@ -6,7 +6,7 @@
 
 Este projeto faz parte do Trabalho de Conclusão de Curso (TCC) para o curso de Desenvolvimento de Sistemas no ano de 2024 e foi criado com o objetivo de desenvolver um site oficial para o Teatro Dona Zenaide, localizado em Jaguariúna. O projeto surgiu como uma solução para melhorar a divulgação das peças teatrais, que anteriormente era feita apenas pelo Instagram, com alcance limitado.
 
-## Objetivo do Projeto
+## Objetivo do Sistema
 O site foi projetado para ampliar a visibilidade das apresentações teatrais, proporcionando uma experiência de usuário mais eficiente e prática, além de atingir um público maior. A plataforma permite a divulgação das peças com maior facilidade e organiza as informações de maneira acessível e atrativa, facilitando o acesso à programação do teatro e incentivando a presença do público nos eventos.
 
 ## Funcionalidades
