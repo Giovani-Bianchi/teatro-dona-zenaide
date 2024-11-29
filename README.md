@@ -19,49 +19,21 @@ O site foi projetado para ampliar a visibilidade das apresentações teatrais, p
 ## Tecnologias Utilizadas
 O desenvolvimento do site foi realizado utilizando as seguintes tecnologias:
 
-<table style="width: 100; border: none;" cellspacing="0" cellpadding="0" border="0">
-  
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-    <td>Estruturação das páginas do site.</td>
-  </tr>
+<div>
+  <h3>Front-End</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> &nbsp
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/> &nbsp
+</div>
 
-  <tr>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
-    <td>Estilização e design responsivo.</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></td>
-    <td>Funcionalidades interativas no frontend.</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></td>
-    <td>Lógica do backend e integração com banco de dados.</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-    <td>Banco de dados utilizado para armazenar as informações do site.</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></td>
-    <td>Framework PHP para organizar e otimizar o desenvolvimento do backend.</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
-    <td>Framework de CSS utilizado para criar um design moderno e responsivo.</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/></td>
-    <td>Ferramenta utilizada para servidor de desenvolvimento local com fast refresh e compilação de assets do projeto.</td>
-  </tr>
-  
-</table>
+<div>
+  <h3>Back-End</h3>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> &nbsp
+</div>
 
 ## Integrantes do Grupo do TCC 2024
 
